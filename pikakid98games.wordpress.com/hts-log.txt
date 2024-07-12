@@ -1,0 +1,59 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Jul 2024 21:10:17 at https://pikakid98games.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pikakid98games.wordpress.com/ -O1 "C:\Users\Pika\Apps\HTTrack\Projects\pikakid98games.wordpress.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:12:17	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/GET (from https://pikakid98games.wordpress.com/)
+21:12:17	Warning: 	Moved Permanently for https://pikakid98games.wordpress.com/purrcatory/download/
+21:12:17	Warning: 	File has moved from https://pikakid98games.wordpress.com/purrcatory/download/ to https://pikakid98games.wordpress.com/purrcatory/downloads/
+21:12:22	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/purrcatory/GET (from https://pikakid98games.wordpress.com/purrcatory/)
+21:12:27	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics/GET (from https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics/)
+21:12:29	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/GET (from https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/)
+21:12:31	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thecomputer/GET (from https://pikakid98games.wordpress.com/thecomputer/)
+21:12:36	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection/GET (from https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection/)
+21:12:38	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedead/GET (from https://pikakid98games.wordpress.com/caveofthedead/)
+21:12:41	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thelegendofzeldaswordofdestiny/GET (from https://pikakid98games.wordpress.com/thelegendofzeldaswordofdestiny/)
+21:12:42	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98studiosgamegallery/GET (from https://pikakid98games.wordpress.com/pikakid98studiosgamegallery/)
+21:12:44	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/markipliersmansion/GET (from https://pikakid98games.wordpress.com/markipliersmansion/)
+21:12:49	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/8-bitmarkiplier/GET (from https://pikakid98games.wordpress.com/8-bitmarkiplier/)
+21:12:51	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/jacksepticeyeintothesystem/GET (from https://pikakid98games.wordpress.com/jacksepticeyeintothesystem/)
+21:12:53	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/techron/GET (from https://pikakid98games.wordpress.com/techron/)
+21:12:55	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedead2/GET (from https://pikakid98games.wordpress.com/caveofthedead2/)
+21:12:57	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedeadremastered/GET (from https://pikakid98games.wordpress.com/caveofthedeadremastered/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pheadventures/GET (from https://pikakid98games.wordpress.com/pheadventures/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pokepalsrunner/GET (from https://pikakid98games.wordpress.com/pokepalsrunner/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/unnamedspaceshooterstarringpix/GET (from https://pikakid98games.wordpress.com/unnamedspaceshooterstarringpix/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thehouseofghoulsandtraps/GET (from https://pikakid98games.wordpress.com/thehouseofghoulsandtraps/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98sadventure/GET (from https://pikakid98games.wordpress.com/pikakid98sadventure/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/catwarfaredemake/GET (from https://pikakid98games.wordpress.com/catwarfaredemake/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/fnafpurpleguyorigins/GET (from https://pikakid98games.wordpress.com/fnafpurpleguyorigins/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/overtalesansadventure/GET (from https://pikakid98games.wordpress.com/overtalesansadventure/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/sheep/GET (from https://pikakid98games.wordpress.com/sheep/)
+21:12:59	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedeadplus/GET (from https://pikakid98games.wordpress.com/caveofthedeadplus/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/purrcatory/walkthrough/GET (from https://pikakid98games.wordpress.com/purrcatory/walkthrough/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/purrcatory/team/GET (from https://pikakid98games.wordpress.com/purrcatory/team/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics/downloads/GET (from https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics/collection/GET (from https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics/collection/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/downloads/GET (from https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thecomputer/downloads/GET (from https://pikakid98games.wordpress.com/thecomputer/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection/downloads/GET (from https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection/collection/GET (from https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection/collection/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedead/downloads/GET (from https://pikakid98games.wordpress.com/caveofthedead/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/thelegendofzeldaswordofdestiny/downloads/GET (from https://pikakid98games.wordpress.com/thelegendofzeldaswordofdestiny/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pikakid98studiosgamegallery/downloads/GET (from https://pikakid98games.wordpress.com/pikakid98studiosgamegallery/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/markipliersmansion/downloads/GET (from https://pikakid98games.wordpress.com/markipliersmansion/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/8-bitmarkiplier/downloads/GET (from https://pikakid98games.wordpress.com/8-bitmarkiplier/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/8-bitmarkiplier/walkthrough/GET (from https://pikakid98games.wordpress.com/8-bitmarkiplier/walkthrough/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/jacksepticeyeintothesystem/downloads/GET (from https://pikakid98games.wordpress.com/jacksepticeyeintothesystem/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/techron/downloads/GET (from https://pikakid98games.wordpress.com/techron/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedead2/downloads/GET (from https://pikakid98games.wordpress.com/caveofthedead2/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/caveofthedeadremastered/downloads/GET (from https://pikakid98games.wordpress.com/caveofthedeadremastered/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/pheadventures/downloads/GET (from https://pikakid98games.wordpress.com/pheadventures/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/purrcatory/downloads/GET (from https://pikakid98games.wordpress.com/purrcatory/downloads/)
+21:13:03	Error: 	"Not Found" (404) at link https://pikakid98games.wordpress.com/purrcatory/walkthrough/secrets/GET (from https://pikakid98games.wordpress.com/purrcatory/walkthrough/secrets/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 46 seconds : 184 links scanned, 134 files written (11098958 bytes overall) [9468330 bytes received at 57038 bytes/sec], 6824767 bytes transferred using HTTP compression in 108 files, ratio 28%, 14.4 requests per connection
+(46 errors, 2 warnings, 0 messages)
