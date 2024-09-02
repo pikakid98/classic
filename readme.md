@@ -1,0 +1,2 @@
+> [!WARNING]
+> This repo is currently being reworked into a wiki with a museum of old content. This means that either this repo will suddenly vanish or the existing links to the archived sites will no longer function
